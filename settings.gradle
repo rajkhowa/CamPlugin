@@ -1,0 +1,3 @@
+include ':camgeoplugin'
+include ':app'
+rootProject.name = "CamPlugin"
